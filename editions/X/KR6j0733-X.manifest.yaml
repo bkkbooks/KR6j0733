@@ -1,0 +1,288 @@
+canonical_identifier: bkk:krp/KR6j0733/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0733/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛頂尊勝陀羅尼經釋
+  identifiers:
+    krp: KR6j0733
+    cbeta: X23n0445
+    cbeta_old_id: X23n0445
+    authorityid: CA0001047
+    json_key: X0445
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X23/X23n0445.xml
+    old_id: X23n0445
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0733_000-X.yaml, hash: 'sha256:50fbe576b13853ac603df44858a495e6c6ac61c607138167026a4f6778475f87'}
+  - {seq: 1, filename: KR6j0733_001-X.yaml, hash: 'sha256:3497749ae60a97a84c2a298f7c06bd4f36b8bb3c00521e47bbfd69efbd7bddd0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0733_000-X.markers.yaml, hash: 'sha256:ca0467dd7886d507023c58c36a397162552bfb6bd851a8a1bedbeb285660b061'}
+  - {seq: 1, role: markers, filename: assets/KR6j0733_001-X.markers.yaml, hash: 'sha256:a7dfd7f920934e605d7e8a01cf2a749e82ff5697db993871ca1d61b2888aa019'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0733_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 445-A 引
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0733_X_000-mulu-2
+    span:
+    - front
+    - 663
+    - 663
+  label: No. 445-B 緣起記
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0733_X_000-mulu-3
+    span:
+    - front
+    - 1165
+    - 1165
+  label: No. 445-C 佛頂尊勝陀羅尼經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0733_X_000-mulu-4
+    span:
+    - front
+    - 1953
+    - 1953
+  label: 佛頂尊勝陀羅尼經釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9372
+  label: 佛頂尊勝陀羅尼經釋
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-1
+    span:
+    - body
+    - 3447
+    - 3447
+  label: No. 445-D
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-2
+    span:
+    - body
+    - 3447
+    - 3447
+  label: 音釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-3
+    span:
+    - body
+    - 3449
+    - 3449
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-4
+    span:
+    - body
+    - 3553
+    - 3553
+  label: 經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-5
+    span:
+    - body
+    - 3891
+    - 3891
+  label: 法數
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-6
+    span:
+    - body
+    - 3893
+    - 3893
+  label: 先序分(分二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-7
+    span:
+    - body
+    - 3898
+    - 3898
+  label: 一證信序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-8
+    span:
+    - body
+    - 3902
+    - 3902
+  label: 二發起序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-9
+    span:
+    - body
+    - 3946
+    - 3946
+  label: 次正宗分(開四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-10
+    span:
+    - body
+    - 3952
+    - 3952
+  label: 一帝釋會(又分二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-11
+    span:
+    - body
+    - 3959
+    - 3959
+  label: 初呪前略顯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-12
+    span:
+    - body
+    - 4089
+    - 4089
+  label: 二呪後詳明
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-13
+    span:
+    - body
+    - 4521
+    - 4521
+  label: 二閻王會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-14
+    span:
+    - body
+    - 4572
+    - 4572
+  label: 三四天會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-15
+    span:
+    - body
+    - 4576
+    - 4576
+  label: 所為五根眾生各益
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-16
+    span:
+    - body
+    - 4866
+    - 4866
+  label: 四善住會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-17
+    span:
+    - body
+    - 4966
+    - 4966
+  label: 後流通分(亦二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-18
+    span:
+    - body
+    - 4972
+    - 4972
+  label: 一結名勅持
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-19
+    span:
+    - body
+    - 4977
+    - 4977
+  label: 二眾喜奉行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-20
+    span:
+    - body
+    - 4982
+    - 4982
+  label: 問答
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0733_X_001-mulu-21
+    span:
+    - body
+    - 5734
+    - 5734
+  label: No. 445-E 日本國黃檗山僧友書
+  type: mulu
+  level: 1
+hash: sha256:cfcb2fe2713cd6912c11ed0260ee02e40605717a46cad682be09a4bf471d7d31
