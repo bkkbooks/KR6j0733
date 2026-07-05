@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0733_000.yaml, hash: 'sha256:eff675aeabcd42134df765cd211b9837f877f2dcc26ea1346ee774d763d0f1cc'}
-  - {seq: 1, filename: KR6j0733_001.yaml, hash: 'sha256:7a03aaf3e1bd9f1acf8c05895c826e973db5a0dce332ae91bfb45936348be92d'}
+  - {seq: 0, filename: KR6j0733_000.yaml, hash: 'sha256:50fbe576b13853ac603df44858a495e6c6ac61c607138167026a4f6778475f87'}
+  - {seq: 1, filename: KR6j0733_001.yaml, hash: 'sha256:3497749ae60a97a84c2a298f7c06bd4f36b8bb3c00521e47bbfd69efbd7bddd0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0733_000.markers.yaml, hash: 'sha256:15a4e4767befc3def57a90cc175299c7efeae3c02ead59d2d2469cec2e8cf4ec'}
-  - {seq: 1, role: markers, filename: assets/KR6j0733_001.markers.yaml, hash: 'sha256:cddb2c92bee330456634adee6baa7a781f0f10d36c72682e167bc0e60280f837'}
+  - {seq: 0, role: markers, filename: assets/KR6j0733_000.markers.yaml, hash: 'sha256:047178ad24270f455ca18632f2e7db2177537cd1ebe98d28b328f4600e0ce133'}
+  - {seq: 1, role: markers, filename: assets/KR6j0733_001.markers.yaml, hash: 'sha256:1a5f2f2c99a06a0c7f286f79a19a52c5e0954ba48f3ce7c1149ef2a8a57fd1ec'}
 table_of_contents:
 - ref:
     seq: 0
@@ -287,7 +287,4 @@ table_of_contents:
   label: No. 445-E 日本國黃檗山僧友書
   type: mulu
   level: 1
-hash: sha256:ac6815b5793cce51b3debde539b80ac24d1c7e3dba2d027f9848072d063cd2e5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:48cd56c104ebcdfbf7424e27c77e862d330816aca95000cdb5d5803e7d99e267
