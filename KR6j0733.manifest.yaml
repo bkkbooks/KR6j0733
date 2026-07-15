@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0733/v1
 canonical_location: https://kanripo.org/bkk/KR6j0733/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛頂尊勝陀羅尼經釋
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0733_000.yaml, hash: 'sha256:50fbe576b13853ac603df44858a495e6c6ac61c607138167026a4f6778475f87'}
-  - {seq: 1, filename: KR6j0733_001.yaml, hash: 'sha256:3497749ae60a97a84c2a298f7c06bd4f36b8bb3c00521e47bbfd69efbd7bddd0'}
+  - {seq: 0, filename: KR6j0733_000.yaml, hash: 'sha256:fb11a5d19fa074bb292de98846e3fc6befd6672ad3c8386eb1beea98d2b41080'}
+  - {seq: 1, filename: KR6j0733_001.yaml, hash: 'sha256:4632a34e6acf3b00fb9df720e2aab1ad9bf0d95a9afc90665d9866e05512d136'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0733_000.markers.yaml, hash: 'sha256:047178ad24270f455ca18632f2e7db2177537cd1ebe98d28b328f4600e0ce133'}
-  - {seq: 1, role: markers, filename: assets/KR6j0733_001.markers.yaml, hash: 'sha256:1a5f2f2c99a06a0c7f286f79a19a52c5e0954ba48f3ce7c1149ef2a8a57fd1ec'}
+  - {seq: 0, role: markers, filename: assets/KR6j0733_000.markers.yaml, hash: 'sha256:4c1fbc0f9ed91d7a2eed6393ac4472815eed9c2d072406768b5eab771d537738'}
+  - {seq: 1, role: markers, filename: assets/KR6j0733_001.markers.yaml, hash: 'sha256:3b622747cb4116713a54c8f22711b695865ada5d2f771535b5930d50bda090aa'}
 table_of_contents:
 - ref:
     seq: 0
@@ -287,4 +287,7 @@ table_of_contents:
   label: No. 445-E 日本國黃檗山僧友書
   type: mulu
   level: 1
-hash: sha256:48cd56c104ebcdfbf7424e27c77e862d330816aca95000cdb5d5803e7d99e267
+hash: sha256:7fa3b0d765e1053891e1258bbed20bef01fb4785ccd705f545166a45c609daab
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
