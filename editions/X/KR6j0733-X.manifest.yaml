@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0733_000-X.yaml, hash: 'sha256:50fbe576b13853ac603df44858a495e6c6ac61c607138167026a4f6778475f87'}
+  - {seq: 0, filename: KR6j0733_000-X.yaml, hash: 'sha256:3b65d32ceb39811c8a24c5426a69188dc58dbef60f31d717f104d49cb2c9e2e2'}
   - {seq: 1, filename: KR6j0733_001-X.yaml, hash: 'sha256:3497749ae60a97a84c2a298f7c06bd4f36b8bb3c00521e47bbfd69efbd7bddd0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0733_000-X.markers.yaml, hash: 'sha256:ca0467dd7886d507023c58c36a397162552bfb6bd851a8a1bedbeb285660b061'}
+  - {seq: 0, role: markers, filename: assets/KR6j0733_000-X.markers.yaml, hash: 'sha256:0b1c96f5df6d5a89a5677009e25ae1e86cedb45ab3210995e87187ecf8ddaf45'}
   - {seq: 1, role: markers, filename: assets/KR6j0733_001-X.markers.yaml, hash: 'sha256:a7dfd7f920934e605d7e8a01cf2a749e82ff5697db993871ca1d61b2888aa019'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0733_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 445-A 引
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0733_X_000-mulu-2
     span:
-    - front
+    - body
     - 663
     - 663
   label: No. 445-B 緣起記
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0733_X_000-mulu-3
     span:
-    - front
+    - body
     - 1165
     - 1165
   label: No. 445-C 佛頂尊勝陀羅尼經序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0733_X_000-mulu-4
     span:
-    - front
+    - body
     - 1953
     - 1953
   label: 佛頂尊勝陀羅尼經釋
@@ -285,4 +285,4 @@ table_of_contents:
   label: No. 445-E 日本國黃檗山僧友書
   type: mulu
   level: 1
-hash: sha256:cfcb2fe2713cd6912c11ed0260ee02e40605717a46cad682be09a4bf471d7d31
+hash: sha256:fbd670f3c7751fcddb270280bf0156b8b9e3a714a81471eb7e797b557fe6f12d
